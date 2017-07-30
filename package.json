@@ -1,9 +1,10 @@
 {
   "name": "node-js-getting-started",
   "version": "0.2.6",
-  "description": "A sample Node.js app using Express 4",
+  "description": "E commerce admin panle",
+  "author": "Kaushik M.K.",
   "engines": {
-    "node": "6.11.1"
+    "node": "^6.11.1"
   },
   "main": "index.js",
   "scripts": {
@@ -15,12 +16,12 @@
     "express": "4.15.2"
   },
   "devDependencies": {
-    "request": "^2.81.0",
-    "tape": "^4.7.0"
+    "request": "2.81.0",
+    "tape": "4.7.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/mkkaushiksjce/E-Commerce-admin-panel.git"
   },
   "keywords": [
     "node",
