@@ -1,7 +1,8 @@
 {
   "name": "node-js-getting-started",
   "version": "0.2.6",
-  "description": "A sample Node.js app using Express 4",
+  "description": "E commerce admin panle",
+  "author": "Kaushik M.K.",
   "engines": {
     "node": "^6.11.1"
   },
