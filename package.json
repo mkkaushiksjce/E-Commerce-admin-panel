@@ -1,7 +1,7 @@
 {
-  "name": "sushupti-dream-studios",
+  "name": "ecommerce-admin-panel",
   "version": "1.0.0",
-  "description": "sushupti web application",
+  "description": "naTee-admin-panel",
   "author": "Kaushik M.K.",
   "engines": {
     "node": "^6.11.1"
