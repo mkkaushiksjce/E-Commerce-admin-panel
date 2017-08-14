@@ -57,8 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
-# Dist folder
-dist
+# config files
+config/
 
-# Config file
-config
+
